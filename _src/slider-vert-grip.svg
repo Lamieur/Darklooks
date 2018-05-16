@@ -13,8 +13,8 @@
    height="8"
    id="svg5263"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="slider-vert.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="slider-vert-grip.svg"
    inkscape:export-filename="/usr/share/themes/Clearlooks-Phenix-HiDPI/gtk-3.0/img/slider-vert@2.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
@@ -22,23 +22,23 @@
      id="defs5265" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#555753"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="146"
-     inkscape:cx="3.0128"
-     inkscape:cy="3.5"
+     inkscape:zoom="73"
+     inkscape:cx="0.34028797"
+     inkscape:cy="4.3748166"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
-     inkscape:window-width="1918"
-     inkscape:window-height="1983"
-     inkscape:window-x="1920"
-     inkscape:window-y="144"
+     inkscape:window-width="1912"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -51,10 +51,10 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="0.5px"
-       spacingy="0.5px"
-       originx="-0.9872px"
-       originy="1px" />
+       spacingx="0.5"
+       spacingy="0.5"
+       originx="-0.9872"
+       originy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata5268">
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,17 +74,17 @@
      id="layer1"
      transform="translate(-0.9872,-1045.3622)">
     <path
-       style="fill:none;stroke:#4a4847;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#a19f9d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 5.9872,1045.8622 -5,0"
        id="path5781"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#4a4847;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#a19f9d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 5.9872,1048.8622 -5,0"
        id="path5781-3"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#4a4847;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#a19f9d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 5.9872,1051.8622 -5,0"
        id="path5781-38"
        inkscape:connector-curvature="0" />

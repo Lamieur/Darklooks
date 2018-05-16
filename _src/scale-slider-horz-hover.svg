@@ -14,7 +14,7 @@
    height="13"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="scale-slider-horz-hover.svg"
    inkscape:export-filename="/usr/share/themes/Clearlooks-Phenix-HiDPI/gtk-3.0/img/scale-slider-horz-hover@2.png"
    inkscape:export-xdpi="180"
@@ -24,26 +24,26 @@
     <linearGradient
        id="linearGradient3767">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.5"
+         style="stop-color:#555753;stop-opacity:0.5"
          offset="0"
          id="stop3769" />
       <stop
-         style="stop-color:#e0dedd;stop-opacity:0.5"
+         style="stop-color:#2d2d2d;stop-opacity:0.5"
          offset="1"
          id="stop3771" />
     </linearGradient>
     <linearGradient
        id="linearGradient3757">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#777777;stop-opacity:1"
          offset="0"
          id="stop3759" />
       <stop
          id="stop3856"
          offset="0.45454547"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#777777;stop-opacity:1;" />
       <stop
-         style="stop-color:#edeceb;stop-opacity:1"
+         style="stop-color:#555753;stop-opacity:1"
          offset="1"
          id="stop3761" />
     </linearGradient>
@@ -68,22 +68,22 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#555753"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="55.619048"
-     inkscape:cx="10.464041"
+     inkscape:cx="7.0569349"
      inkscape:cy="6.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
-     inkscape:window-width="1918"
-     inkscape:window-height="2055"
-     inkscape:window-x="1920"
-     inkscape:window-y="72"
+     inkscape:window-width="1912"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -92,8 +92,10 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="0.5px"
-       spacingy="0.5px" />
+       spacingx="0.5"
+       spacingy="0.5"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -103,7 +105,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,7 +115,7 @@
      id="layer1"
      transform="translate(0,-1039.3622)">
     <rect
-       style="fill:url(#linearGradient3763);fill-opacity:1;stroke:#4b6e99;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:url(#linearGradient3763);fill-opacity:1;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3755"
        width="20"
        height="12"
@@ -122,19 +124,19 @@
        transform="translate(0,1039.3622)"
        ry="2.5" />
     <path
-       style="fill:none;stroke:#6d6a68;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#a19f9d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 10.5,1043.3622 0,5"
        id="path3799"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#6d6a68;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#a19f9d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 7.5,1043.3622 0,5"
        id="path3799-8"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="-2.5"
        inkscape:transform-center-y="-1" />
     <path
-       style="fill:none;stroke:#6d6a68;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#a19f9d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 13.5,1043.3622 0,5"
        id="path3799-8-7"
        inkscape:connector-curvature="0"

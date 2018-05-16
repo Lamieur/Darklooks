@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="checkbox-unchecked.svg"
    inkscape:export-filename="/usr/share/themes/Clearlooks-Phenix-HiDPI/gtk-3.0/img/checkbox-unchecked@2.png"
    inkscape:export-xdpi="180"
@@ -33,19 +33,19 @@
     <linearGradient
        id="linearGradient3820">
       <stop
-         style="stop-color:#e0dedd;stop-opacity:1;"
+         style="stop-color:#2d2d2d;stop-opacity:1;"
          offset="0"
          id="stop3822" />
       <stop
          id="stop3830"
          offset="0.46428695"
-         style="stop-color:#e0dedd;stop-opacity:1;" />
+         style="stop-color:#2d2d2d;stop-opacity:1;" />
       <stop
          id="stop3828"
          offset="0.53571439"
-         style="stop-color:#fbfbfa;stop-opacity:1;" />
+         style="stop-color:#323131;stop-opacity:1;" />
       <stop
-         style="stop-color:#fbfbfa;stop-opacity:1;"
+         style="stop-color:#323131;stop-opacity:1;"
          offset="1"
          id="stop3824" />
     </linearGradient>
@@ -62,21 +62,21 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#2e3436"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="72.75"
-     inkscape:cx="7.3402062"
+     inkscape:cx="7.3676976"
      inkscape:cy="7.5051546"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1918"
-     inkscape:window-height="1983"
-     inkscape:window-x="1920"
-     inkscape:window-y="144"
+     inkscape:window-width="1912"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true">
     <inkscape:grid
@@ -86,8 +86,10 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="0.5px"
-       spacingy="0.5px" />
+       spacingx="0.5"
+       spacingy="0.5"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -97,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -107,7 +109,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#787571;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#2e3436;fill-opacity:1;stroke:#2d2d2d;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect2987"
        width="11"
        height="11"
@@ -119,7 +121,7 @@
        transform="translate(0,-0.0128)"
        sodipodi:type="inkscape:offset"
        inkscape:radius="1"
-       inkscape:original="M 3.5 1038.875 C 2.946 1038.875 2.5 1039.321 2.5 1039.875 L 2.5 1048.875 C 2.5 1049.429 2.946 1049.875 3.5 1049.875 L 12.5 1049.875 C 13.054 1049.875 13.5 1049.429 13.5 1048.875 L 13.5 1039.875 C 13.5 1039.321 13.054 1038.875 12.5 1038.875 L 3.5 1038.875 z "
+       inkscape:original="M 3.5 1038.8633 C 2.946 1038.8633 2.5 1039.3093 2.5 1039.8633 L 2.5 1048.8633 C 2.5 1049.4173 2.946 1049.8633 3.5 1049.8633 L 12.5 1049.8633 C 13.054 1049.8633 13.5 1049.4173 13.5 1048.8633 L 13.5 1039.8633 C 13.5 1039.3093 13.054 1038.8633 12.5 1038.8633 L 3.5 1038.8633 z "
        xlink:href="#rect2987"
        style="fill:none;stroke:url(#linearGradient3849);stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path3042"

@@ -37,11 +37,11 @@
       <stop
          id="stop3862"
          offset="0"
-         style="stop-color:#717171;stop-opacity:1;" />
+         style="stop-color:#2e3436;stop-opacity:1;" />
       <stop
          id="stop3864"
          offset="1"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#e6e6e6;stop-opacity:1;" />
     </linearGradient>
     <radialGradient
        r="3"
@@ -57,7 +57,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#2e3436"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -102,7 +102,7 @@
      id="layer1"
      transform="translate(0,-1041.3622)">
     <path
-       style="fill:#c9daef;fill-opacity:1;stroke:#4b6e99;stroke-width:0.88888884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#3f403d;fill-opacity:1;stroke:#3f403d;stroke-width:0.88888884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path6258"
        sodipodi:cx="5.5"
        sodipodi:cy="5.5"

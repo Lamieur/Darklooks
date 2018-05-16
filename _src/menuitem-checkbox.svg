@@ -13,27 +13,27 @@
    height="11"
    id="svg3998"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 13">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="menuitem-checkbox.svg">
   <defs
      id="defs4000" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#2e3436"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="106.18182"
-     inkscape:cx="5.4811644"
-     inkscape:cy="5.5"
+     inkscape:zoom="75.081885"
+     inkscape:cx="3.8007312"
+     inkscape:cy="4.8374742"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1918"
-     inkscape:window-height="2019"
-     inkscape:window-x="1920"
-     inkscape:window-y="108"
+     inkscape:window-width="1912"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -42,8 +42,10 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="0.5px"
-       spacingy="0.5px" />
+       spacingx="0.5"
+       spacingy="0.5"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata4003">
@@ -53,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,7 +65,7 @@
      id="layer1"
      transform="translate(0,-1041.3622)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#797979;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#2e3436;fill-opacity:1;stroke:#2d2d2d;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4008"
        width="9"
        height="9"

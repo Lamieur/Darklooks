@@ -26,20 +26,20 @@
       <stop
          id="stop3862"
          offset="0"
-         style="stop-color:#717171;stop-opacity:1;" />
+         style="stop-color:#2e3436;stop-opacity:1;" />
       <stop
          id="stop3864"
          offset="1"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#e6e6e6;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3764">
       <stop
-         style="stop-color:#e0dedd;stop-opacity:1;"
+         style="stop-color:#2d2d2d;stop-opacity:1;"
          offset="0"
          id="stop3766" />
       <stop
-         style="stop-color:#fbfbfa;stop-opacity:1;"
+         style="stop-color:#323131;stop-opacity:1;"
          offset="1"
          id="stop3768" />
     </linearGradient>
@@ -126,7 +126,7 @@
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
-       style="fill:#c9daef;fill-opacity:1;stroke:#51729c;stroke-width:1.09090912000000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#3f403d;fill-opacity:1;stroke:#3f403d;stroke-width:1.09090912000000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path4898"
        sodipodi:cx="8"
        sodipodi:cy="8"
@@ -138,7 +138,7 @@
        sodipodi:open="true"
        transform="matrix(0.91666667,0,0,0.91666666,0.66666665,1037.0288)" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#e6e6e6;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 3.09375 7 C 3.0271455 7.325488 3 7.654822 3 8 C 3 8.345178 3.0271455 8.674512 3.09375 9 L 12.90625 9 C 12.972854 8.674512 13 8.345178 13 8 C 12.999009 7.6661462 12.969608 7.3153808 12.90625 7 L 3.09375 7 z "
        transform="translate(0,1036.3622)"
        id="path4490" />
