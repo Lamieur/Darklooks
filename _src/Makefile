@@ -7,7 +7,7 @@ clean:
 	-rm -f $(PNGS)
 
 ../gtk-3.0/img/%.png: %.svg
-	inkscape --without-gui --export-dpi=90 --export-background-opacity=0 --export-png=$@ $<
+	inkscape --without-gui --export-dpi=96 --export-background-opacity=0 --export-png=$@ $<
 
 ../gtk-3.0/img/%@2.png: %.svg
-	inkscape --without-gui --export-dpi=180 --export-background-opacity=0 --export-png=$@ $<
+	inkscape --without-gui --export-dpi=192 --export-background-opacity=0 --export-png=$@ $<
