@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- `cinnamon-settings themes` needs metacity-theme-3.xml to exist before
+ it will show a theme, while Cinnamon itself can be made to ignore this file
+ and display only the version 1 theme
+ https://github.com/GNOME/metacity/blob/master/doc/theme-format.txt#L88 -->
+<metacity_theme version="&gt; 4.40">
+</metacity_theme>
