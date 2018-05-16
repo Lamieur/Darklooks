@@ -625,7 +625,7 @@ toolbar.inline-toolbar toolbutton button :only-child:active,
 toolbar.inline-toolbar toolbutton button :only-child:focus,
 toolbar.inline-toolbar toolbutton button :only-child:focus:active,
 toolbar.inline-toolbar toolbutton button :only-child:disabled {
-	border-image: url("img/border-inline-button.svg") 3 3 4 3 / 3px 3px 4px 3px repeat;
+	border-image: url("img/border.svg") 3 3 4 3 / 3px 3px 4px 3px repeat;
 	border-radius: 3px;
 	border-width: 1px 1px 2px 1px;
 	border-style: solid;
@@ -688,7 +688,7 @@ toolbar.primary-toolbar combobox button:focus {
 
 /* focused primary toolbar button borders */
 toolbar.primary-toolbar button:focus {
-	border-image: url("img/border-focused-ptb.svg") 3 3 4 3 / 3px 3px 4px 3px repeat;
+	border-image: url("img/border-focused.svg") 3 3 4 3 / 3px 3px 4px 3px repeat;
 	border-radius: 3px;
 	border-width: 1px 1px 2px 1px;
 	border-style: solid;

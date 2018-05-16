@@ -105,7 +105,7 @@ spinner:active, spinner:checked {
 	animation: spin 1s linear infinite;
 }
 spinner:active:disabled, spinner:checked:disabled {
-	opacity: 0.5;
+	opacity: 1;
 }
 
 .floating-bar {
@@ -826,8 +826,8 @@ toolbar.primary-toolbar combobox button.combo:hover,
 colorchooser #add-color-button:hover {
 	background-color: transparent;
 	background-image: linear-gradient(to bottom,
-	                  @button_hover_gradient_a 50%,
-	                  @button_hover_gradient_b 50%,
+	                  @button_hover_gradient_a,
+	                  @button_hover_gradient_b,
 	                  @button_hover_gradient_c);
 }
 
@@ -2486,7 +2486,7 @@ infobar:last-child,
 
 .titlebar {
 	background-image: linear-gradient(to bottom,
-	                  @theme_base_color,
+	                  shade(@theme_bg_color, 0.8),
 	                  @theme_bg_color);
 	background-color: transparent;
 	border-radius: 0px;
