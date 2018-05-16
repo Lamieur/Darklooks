@@ -96,16 +96,15 @@ tooltip *,
 	}
 }
 spinner {
-	background-image: none;
-	background-color: blue;
+	background-color: transparent;
 	opacity: 0;
 	-gtk-icon-source: -gtk-icontheme("process-working-symbolic");
 }
-spinner:active {
+spinner:active, spinner:checked {
 	opacity: 1;
 	animation: spin 1s linear infinite;
 }
-spinner:active:disabled {
+spinner:active:disabled, spinner:checked:disabled {
 	opacity: 0.5;
 }
 
