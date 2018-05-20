@@ -191,6 +191,10 @@ entry {
 	padding: 4px;
 	color: @entry_text_color;
 	background-color: @theme_base_color;
+	border-width: 1px;
+	border-radius: 3px;
+	border-color: @spinbutton_border_color;
+	border-image: none;
 }
 
 entry progressbar {
