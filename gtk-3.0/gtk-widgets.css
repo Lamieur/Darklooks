@@ -2630,6 +2630,10 @@ placessidebar .view {
 	border-style: none;
 }
 
+revealer box {
+	background-color: @theme_bg_color;
+}
+
 /******************
  * Dialog Windows *
  ******************/
