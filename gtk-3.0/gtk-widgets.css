@@ -2631,9 +2631,10 @@ placessidebar .view {
 	border-style: none;
 }
 
-revealer box {
+revealer frame.app-notification box {
 	background-color: @theme_bg_color;
 }
+
 
 /******************
  * Dialog Windows *
