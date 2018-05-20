@@ -1159,6 +1159,12 @@ combobox button.combo:disabled {
 	color: @insensitive_fg_color;
 }
 
+combobox cellview:disabled {
+    background-color: transparent;
+    background-image: none;
+    color: @insensitive_fg_color;
+}
+
 combobox separator {
 	/*-GtkWidget-wide-separators: true;*/
 	-GtkWidget-horizontal-separator: 1;
