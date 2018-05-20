@@ -1823,7 +1823,6 @@ check:disabled,
 radio:disabled,
 .radio:disabled {
 	background-color: transparent;
-	border-style: none;
 }
 
 check row:selected:disabled,
