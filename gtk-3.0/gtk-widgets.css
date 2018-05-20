@@ -2537,6 +2537,7 @@ window.background decoration {
     border: solid 2px @insensitive_border_color;
 }
 
+window.background.popup decoration,
 combobox window.background decoration,
 menuitem window.background decoration {
     border: none 0 transparent;
