@@ -1,15 +1,13 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Clearlooks-Phénix
-Name[fr]=Clearlooks-Phénix
-Comment=GTK3 port of Clearlooks
-Comment[fr]=Version GTK3 de Clearlooks
+Name=Darklooks
+Comment=GTK3 port of Darklooks
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Clearlooks-Phenix
-MetacityTheme=Clearlooks-Phenix
+GtkTheme=Darklooks
+MetacityTheme=Darklooks
 IconTheme=gnome
-CursorTheme=DMZ-White
+CursorTheme=mate
 CursorSize=16
 ButtonLayout=:minimize,maximize,close
