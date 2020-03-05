@@ -46,51 +46,51 @@ scrollbar slider {
 }
 
 scrollbar.vertical slider {
-	background-image: linear-gradient(to right,
+	background-image: -gtk-scaled(url("img/slider-vert-grip.png"),
+	                      url("img/slider-vert-grip@2.png")),
+			linear-gradient(to right,
 	                      alpha (@scrollbar_slider_inner_border_color, 0.5),
-	                      alpha (@scrollbar_slider_gradient_a, 0.5) 1px,
-	                      alpha (@scrollbar_slider_gradient_b, 0.5) 50%,
-	                      alpha (@scrollbar_slider_gradient_c, 0.5) 50%,
-	                      alpha (@scrollbar_slider_gradient_d, 0.5) 95%,
-	                      alpha (@scrollbar_slider_inner_border_color, 0.5)),
-	                  -gtk-scaled(url("img/slider-vert-grip.png"),
-	                      url("img/slider-vert-grip@2.png"));
+	                      alpha (@scrollbar_slider_gradient_a, 0.8) 1px,
+	                      alpha (@scrollbar_slider_gradient_b, 0.8) 50%,
+	                      alpha (@scrollbar_slider_gradient_c, 0.8) 50%,
+	                      alpha (@scrollbar_slider_gradient_d, 0.8) 95%,
+	                      alpha (@scrollbar_slider_inner_border_color, 0.5));
 }
 
 scrollbar.horizontal slider {
-	background-image: linear-gradient(to bottom,
+	background-image: -gtk-scaled(url("img/slider-horz-grip.png"),
+	                      url("img/slider-horz-grip@2.png")),
+			 linear-gradient(to bottom,
 	                      alpha (@scrollbar_slider_inner_border_color, 0.5),
-	                      alpha (@scrollbar_slider_gradient_a, 0.5) 1px,
-	                      alpha (@scrollbar_slider_gradient_b, 0.5) 50%,
-	                      alpha (@scrollbar_slider_gradient_c, 0.5) 50%,
-	                      alpha (@scrollbar_slider_gradient_d, 0.5) 95%,
-	                      alpha (@scrollbar_slider_inner_border_color, 0.5)),
-	                  -gtk-scaled(url("img/slider-horz-grip.png"),
-	                      url("img/slider-horz-grip@2.png"));
+	                      alpha (@scrollbar_slider_gradient_a, 0.8) 1px,
+	                      alpha (@scrollbar_slider_gradient_b, 0.8) 50%,
+	                      alpha (@scrollbar_slider_gradient_c, 0.8) 50%,
+	                      alpha (@scrollbar_slider_gradient_d, 0.8) 95%,
+	                      alpha (@scrollbar_slider_inner_border_color, 0.5));
 }
 
 scrollbar.vertical slider:hover {
-	background-image: linear-gradient(to right,
+	background-image: -gtk-scaled(url("img/slider-vert-grip.png"),
+	                      url("img/slider-vert-grip@2.png")),
+			 linear-gradient(to right,
 	                      alpha (@scrollbar_slider_inner_border_color, 0.5),
-	                      alpha (@scrollbar_slider_hover_gradient_a, 0.5) 1px,
-	                      alpha (@scrollbar_slider_hover_gradient_b, 0.5) 50%,
-	                      alpha (@scrollbar_slider_hover_gradient_c, 0.5) 50%,
-	                      alpha (@scrollbar_slider_hover_gradient_d, 0.5) 95%,
-	                      alpha (@scrollbar_slider_inner_border_color, 0.5)),
-	                  -gtk-scaled(url("img/slider-vert-grip.png"),
-	                      url("img/slider-vert-grip@2.png"));
+	                      alpha (@scrollbar_slider_hover_gradient_a, 0.8) 1px,
+	                      alpha (@scrollbar_slider_hover_gradient_b, 0.8) 50%,
+	                      alpha (@scrollbar_slider_hover_gradient_c, 0.8) 50%,
+	                      alpha (@scrollbar_slider_hover_gradient_d, 0.8) 95%,
+	                      alpha (@scrollbar_slider_inner_border_color, 0.5));
 }
 
 scrollbar.horizontal slider:hover {
-	background-image: linear-gradient(to bottom,
+	background-image: -gtk-scaled(url("img/slider-horz-grip.png"),
+	                      url("img/slider-horz-grip@2.png")),
+			 linear-gradient(to bottom,
 	                      alpha (@scrollbar_slider_inner_border_color, 0.5),
-	                      alpha (@scrollbar_slider_hover_gradient_a, 0.5) 1px,
-	                      alpha (@scrollbar_slider_hover_gradient_b, 0.5) 50%,
-	                      alpha (@scrollbar_slider_hover_gradient_c, 0.5) 50%,
-	                      alpha (@scrollbar_slider_hover_gradient_d, 0.5) 95%,
-	                      alpha (@scrollbar_slider_inner_border_color, 0.5)),
-	                  -gtk-scaled(url("img/slider-horz-grip.png"),
-	                      url("img/slider-horz-grip@2.png"));
+	                      alpha (@scrollbar_slider_hover_gradient_a, 0.8) 1px,
+	                      alpha (@scrollbar_slider_hover_gradient_b, 0.8) 50%,
+	                      alpha (@scrollbar_slider_hover_gradient_c, 0.8) 50%,
+	                      alpha (@scrollbar_slider_hover_gradient_d, 0.8) 95%,
+	                      alpha (@scrollbar_slider_inner_border_color, 0.5));
 }
 
 /*************************
